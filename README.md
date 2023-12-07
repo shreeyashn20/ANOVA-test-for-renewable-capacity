@@ -19,7 +19,7 @@ pip install pandas scipy
 
 ### Data
 
-The data for this analysis is stored in the `data.csv` file. It contains the following columns:
+The data for this analysis contains the following columns:
 
 | Column | Description |
 |---|---|
@@ -27,7 +27,6 @@ The data for this analysis is stored in the `data.csv` file. It contains the fol
 | **Year** | Year (format: YYYY-YY). |
 | **Cumulative Achievements** | Cumulative renewable energy capacity (MW) for each sector and year. |
 
-**Note:** Replace `data.csv` with the actual path to your data file.
 
 ### Running the Code
 
@@ -35,7 +34,7 @@ The data for this analysis is stored in the `data.csv` file. It contains the fol
 2. Run the following command:
 
 ```
-python renewable_energy_analysis.py
+python ANOVA.py
 ```
 
 ### Results
